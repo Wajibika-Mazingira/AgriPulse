@@ -1,0 +1,14 @@
+node_id,graph_label,label,node_type,plot_x,plot_y,source_id,notes
+KWS,KWS,Kenya Wildlife Service,state-agency,0.0,2.0,src1;src2;src3,Statutory wildlife manager; institutional accountability does not imply personal guilt.
+KFS,KFS,Kenya Forest Service,state-agency,0.0,1.0,src2,Forest management partner at Arabuko-Sokoke.
+NMK,NMK,National Museums of Kenya,state-agency,0.0,0.0,src10;src16,Kaya heritage body working with community custodians.
+WRTI,WRTI,Wildlife Research and Training Institute,research-agency,0.0,-1.0,src1,Co-produced the national elephant action plan.
+KAYA,KAYA,Kaya custodians and Mijikenda communities,community,2.0,0.7,src10;src16,Community knowledge and authority are not reducible to agency records.
+ASF,ASF,Arabuko-Sokoke elephant population,ecological-site,2.0,2.0,src1;src2,Estimate of 215 from dung count in 2017 (95% CI 145–318).
+TSAVO,TSAVO,Tsavo elephant range,ecological-site,2.0,-1.0,src1;src3,Regional elephant source named in Kilifi incursion reporting.
+CHAKAMA,CHAKAMA,Chakama/Adu ward communities,community-site,4.0,-0.5,src3,2021 report records resident accounts of crop loss and limited response.
+TITANIUM,MINE,Tiomin/Base Titanium Kwale project,extractive-project,5.5,1.0,src4;src5;src6;src7,Separate Kwale project; do not draw a causal edge to Kilifi elephants.
+GOVLAND,LAND,Government land acquisition and resettlement,public-process,4.0,1.8,src4;src5;src20,Relocation and compensation process subject to reported grievances.
+DISPLACED,DISP,Maumba/Nguluku displaced households,community,6.5,1.8,src4;src6,Reported testimony and aggregate estimates have different units and evidentiary status.
+NEMA,NEMA,National Environment Management Authority,state-agency,5.5,-0.8,src7,Environmental licensing and closure oversight.
+KAYAFOREST,KAYAS,Mijikenda Kaya forest landscapes,cultural-ecological-site,2.0,0.0,src10;src16,Do not assume a mine overlapped a specific Kaya without cadastral evidence.

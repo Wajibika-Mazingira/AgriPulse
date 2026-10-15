@@ -1,0 +1,8 @@
+record_id,year,location,measure,value,unit,claim_or_finding,evidence_status,source_id,visualization_note
+disp01,2007,Maumba,households relocated,480,households,Households reportedly resettled at Mrima Bwiti,Reported by investigative journalism; not a court-certified census,src4,Keep household count separate from reported persons.
+disp02,2007,Kwale titanium project,people displaced,3000,people,Academic article reports more than 3000 residents displaced from ancestral land,Secondary scholarly estimate,src5,Not directly comparable with household estimate.
+disp03,2016,Maumba resettlement,land disputes,100,disputes,Community representative reported over 100 land disputes and none settled at publication,Reported claim; not independently audited case count,src4,Illustrates unresolved grievances at that reporting date only.
+disp04,2016,Maumba resettlement,disputes alleging no compensation,91,disputes,Community representative said 91 cases were filed by people claiming they were never compensated,Reported claim; not a court finding,src4,Not a current case-status count.
+disp05,2024,Nguluku,land claimed,31,acres,One relocated farmer told Dialogue Earth he held 31 acres,Individual testimony,src6,Single-person case; not representative of all households.
+disp06,2024,Nguluku,land compensated,13,acres,Same farmer said compensation covered 13 acres,Individual testimony disputed by company position,src6,"Show as a testimony pair, not adjudicated acreage."
+disp07,2024,Nguluku,compensation paid,1040000,KES,Same farmer reported receiving about KES 1.04 million,Individual testimony; not independently audited or adjudicated,src6,Do not treat as a standard compensation rate.

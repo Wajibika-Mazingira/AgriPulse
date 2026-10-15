@@ -1,0 +1,4 @@
+population,estimate,lower_ci,upper_ci,estimate_year,survey_method,publication_year,source_id,comparability_note
+Arabuko-Sokoke Forest,215,145,318,2017,dung count,2023,src1,Forest estimate with 95% CI; estimate was already six years old when the 2023 action plan was published.
+Shimba Hills,75,,,2021,aerial total,2023,src1,"Different ecosystem, survey method and year from Arabuko-Sokoke."
+Tsavo ecosystem,14879,,,2021,aerial total,2023,src1,Large regional ecosystem estimate; not a Kilifi county count or a count of elephants visiting Chakama.

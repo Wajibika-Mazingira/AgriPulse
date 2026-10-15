@@ -1,0 +1,9 @@
+site_id,name,site_type,county,latitude,longitude,coordinate_precision,source_id,map_note
+ASF,Arabuko-Sokoke Forest,elephant habitat,Kilifi,-3.349628,39.855476,forest-centroid,src1;src2,Centroid only; not a property boundary.
+CHAKAMA,Chakama / Adu ward,reported elephant-incursion area,Kilifi,-3.117136,39.627166,town-reference,src3,Geocoder place point; incident reporting covers a wider area.
+TAKAUNGU,Takaungu,coastal community reference,Kilifi,-3.683300,39.850000,town-reference,src20,Reference location only; does not locate Majajani Farms.
+BASEMINE,Kwale Mineral Sands / Base Titanium operations,mining project area,Kwale,-4.392931,39.445750,approximate-project-point,src6;src7;src8,OSM place-name point; not a licence or mine-boundary survey.
+SHIMBA,Shimba Hills National Reserve,elephant habitat,Kwale,-4.257102,39.387844,reserve-reference,src1;src9,Representative point; reserve boundary omitted.
+KAYAKINONDO,Kaya Kinondo,publicly mapped Kaya site,Kwale,-4.394930,39.545897,public-site-reference,src10,Use only publicly mapped site context; do not disclose restricted Kaya knowledge or access routes.
+MAJAJANI,Majajani Farms,author-reported farm,Kilifi,,,not-geocoded,src11,Exact farm coordinates not supplied or independently verified; excluded from point map and satellite crop.
+TSAVOEAST,Tsavo East National Park,elephant source named in reporting,Taita Taveta,-3.200000,38.800000,regional-reference,src3,Approximate regional point only; no individual elephant route inferred.

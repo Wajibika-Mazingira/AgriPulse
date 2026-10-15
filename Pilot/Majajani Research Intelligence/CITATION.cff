@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this research package, cite the manuscript and identify the figures or data tables used."
+title: "Banana-Based Soil Building, Imperial Power, and Land Accountability in Coastal Kenya"
+type: article
+authors:
+  - family-names: Majanja
+    given-names: William
+date-released: 2026-10-15
+version: "1.0.0"
+keywords:
+  - Kilifi
+  - Kwale
+  - Mijikenda
+  - Arabuko-Sokoke
+  - Kaya forests
+  - African elephants
+  - titanium mining
+  - land dispossession
+  - banana
+  - remote sensing
+abstract: >-
+  Documentary perspective on banana-based soil building at Majajani Farms,
+  Kilifi elephant and water concerns, Kaya stewardship, and titanium-related
+  land acquisition and resettlement in Kwale, with reproducible evidence
+  tables, maps and visualisations.

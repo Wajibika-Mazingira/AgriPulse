@@ -1,0 +1,15 @@
+edge_id,from_id,to_id,relationship,evidence_class,source_id,causal_limit
+e01,KWS,ASF,Wildlife agency mandate and site-specific plan,documented mandate and plan,src1;src2,Plan responsibilities do not prove each desired action was completed.
+e02,KFS,ASF,Forest management partnership,documented institutional arrangement,src2,Joint stewardship does not define sole responsibility for each outcome.
+e03,NMK,KAYAFOREST,Heritage stewardship with Kaya custodians,documented institution and site relation,src10;src16,Custodians retain authority; do not disclose restricted knowledge.
+e04,KAYA,KAYAFOREST,Customary stewardship and cultural authority,community and heritage record,src10;src16,Specific practices require consented community evidence.
+e05,WRTI,ASF,Population research in national elephant plan,research source,src1,Population estimate is from 2017 dung count.
+e06,TSAVO,CHAKAMA,Elephants reported moving into farms and water points,reported event,src3,Not a GPS-tracked corridor or route.
+e07,KWS,CHAKAMA,Residents reported limited response during 2021 incursion,community allegation in news report,src3,Not a judicial negligence finding.
+e08,KWS,ASF,"National plan notes water, monitoring and corridor gaps",official institutional assessment,src1,Institutional gap; no individual misconduct finding.
+e08b,KFS,ASF,ODPP urged stronger investigation and evidence handling for forest and wildlife cases,reported institutional enforcement concern,src24,Not a court finding against KFS or its Chief Conservator.
+e09,GOVLAND,TITANIUM,Land acquisition/lease enabled mining project,documented historical process,src5;src20,Do not infer every parcel had identical title history.
+e10,GOVLAND,DISPLACED,Resettlement and compensation process,reported and case-specific evidence,src4;src6,Household/person counts and testimony are not equivalent or adjudicated.
+e11,TITANIUM,DISPLACED,Former residents report inadequate compensation and unresolved claims,reported community testimony,src4;src6,Base Titanium disputes adequacy claims; no universal court finding.
+e12,NEMA,TITANIUM,Environmental licence and mine closure oversight,regulatory process and court reporting,src7,No NEMA breach finding identified in the 2026 closure ruling.
+e13,TITANIUM,KAYAFOREST,Potential regional interaction requiring parcel and heritage mapping,investigative question,src10,No evidence yet that the operating mine occupied a named Kaya forest.
